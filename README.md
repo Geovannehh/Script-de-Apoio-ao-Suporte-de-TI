@@ -199,8 +199,5 @@ Se quiser contribuir:
 <div align="center">
 
 **Painel de Suporte Técnico**  
-*Mais praticidade, organização e agilidade nas rotinas de suporte Windows.*
-
-Desenvolvido por **Felipe Wehmuth**.
 
 </div>
