@@ -19,7 +19,6 @@ O **Painel de Suporte Técnico** é uma ferramenta desenvolvida em Batch (`.bat`
 
 Com ele, é possível realizar tarefas de limpeza, diagnóstico, manutenção, consulta de informações do sistema e rede, verificação de segurança e backup de logs — sem precisar memorizar ou executar cada comando manualmente.
 
-> **Criado por Felipe Wehmuth.**
 
 ## 📚 Índice
 
