@@ -179,10 +179,6 @@ painel_log.txt
 
 O arquivo fica na mesma pasta do script e registra as ações executadas, facilitando o acompanhamento das rotinas realizadas.
 
-## 📄 Licença
-
-Este projeto está licenciado sob a **MIT License**. Consulte o arquivo [`LICENSE`](LICENSE) para conhecer os termos de uso, cópia, modificação e distribuição.
-
 ## 🤝 Contribuição
 
 Sugestões, correções e melhorias são bem-vindas!
